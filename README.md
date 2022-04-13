@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uqhruan
+- 👋 Hi, I’m @uqhruan, a PhD candidate in accounting at UQ Business School in Australia.
 - 👀 I’m interested in R Programming and Python.
 - 🌱 I’m currently learning R and Python to analyse business data and research data.
 - 💞️ I’m looking to collaborate on projects using R to conduct regression analyses and projects using Python to investigate textual sentiments.
